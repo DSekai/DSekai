@@ -1,8 +1,8 @@
 <h1 align="center">Hi!👋 I'm Manuel Palta Caro</h1> 
 <h2 align="center">Web Developer Full Stack from Chile</h2>
 
-- 👨‍💻 All of my projects are available at https://sekaidev.com
-- 📫 How to reach me **sekaidev@hotmail.com**
+<p align="center">-👨‍💻 All of my projects are available at https://sekaidev.com</p>
+<p align="center">-📫 How to reach me sekaidev@hotmail.com</p>
 
 <hr/>
 
@@ -15,7 +15,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,nodejs,python,javascript,typescript,express,mongodb,nextjs,mysql,astro" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,nodejs,python,php,javascript,typescript,express,mongodb,nextjs,mysql,astro" />
 </div>
 
 <br/>
@@ -23,12 +23,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DSekai&hide=contribs,prs)
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DSekai&show_icons=true&locale=en&layout=compact&theme=material-palenight" />
 </div>
-
-<br/><br/>
-
 
 <!--
 **DSekai/DSekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
