@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=DSekai&label=Profile%20views&color=0e75b6&style=flat" alt="DSekai" /> </p>
 <h1 align="center">Hi!👋 I'm Manuel Palta Caro</h1> 
 <h2 align="center">Web Developer Full Stack from Chile</h2>
 
@@ -26,6 +27,7 @@
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DSekai&show_icons=true&locale=en&layout=compact&theme=material-palenight" />
 </div>
+
 
 <!--
 **DSekai/DSekai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
