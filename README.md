@@ -2,8 +2,13 @@
 <h1 align="center">Hi!👋 I'm Manuel Palta Caro</h1> 
 <h2 align="center">Web Developer Full Stack from Chile</h2>
 
-<p align="center">-👨‍💻 All of my projects are available at https://sekaidev.com</p>
-<p align="center">-📫 How to reach me sekaidev@hotmail.com</p>
+<div align="center">
+<p align="center">- 🌱 I’m currently learning </p>
+<p align="center">- 👨‍💻 All of my projects are available at https://sekaidev.com</p>
+<p align="center">- 📫 How to reach me sekaidev@hotmail.com</p>
+  
+</div>
+
 
 <hr/>
 
